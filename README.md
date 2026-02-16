@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi 👋, there I'm Aravind !<br><br><br>🤝 Available for opportunity<br><br><br>🚀 An IT graduate looking for an opportunity in the software field, focused on continuous learning and practical project development.<br><br>
+                                      Hi 👋, there I'm Aravind !<br><br><br>🤝 Available for opportunity<br><br><br>🚀 An IT graduate looking for an opportunity in the software field, focused on continuous learning and practical project development.<br><br>
 
 
 ## 🌐 Socials:
