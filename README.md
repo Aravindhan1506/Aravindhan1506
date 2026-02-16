@@ -15,8 +15,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=Aravindhan1506&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Aravindhan1506&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindhan1506&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindhan1506&label=Profile%20views&color=0e75b6&style=flat" alt="aravindhan1506" /> </p>
 
-### ✍️ Random Dev Quote
+### ✍️ Random  Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
