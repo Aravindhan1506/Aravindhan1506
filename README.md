@@ -1,11 +1,11 @@
 # 💫 About Me:
- Hi 👋, there I'm Aravind !<br><br><br>
- 
+  Hi 👋, there I'm Aravind !<br><br><br>
  
  🤝 Available for opportunity<br><br><br>
  
- 
  🚀 An IT graduate looking for an opportunity in the software field, focused on continuous learning and practical project development.<br><br>
+
+ 💬 Want to Chat ? Just shoot me a DM via [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ak___aravind)
 
 
 ## 🌐 Socials:
